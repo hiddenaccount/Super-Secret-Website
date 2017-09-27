@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20160726185758/http://pikek.ml:80/ -O1 "C:\Users\Nick\Desktop\Kyotokek (Night)\Kyotokek (Night)" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 File generated automatically on Wed, 27 Sep 2017 01:34:37, do NOT edit
 
@@ -6,3 +7,13 @@ The existing cache will be used (and modified)
 To have other options, retype all parameters and launch HTTrack
 To continue an interrupted mirror, just launch httrack without any parameters
 
+=======
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20160726185758/http://pikek.ml:80/ -O1 "C:\Users\Nick\Desktop\Kyotokek (Night)\Kyotokek (Night)" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Wed, 27 Sep 2017 01:34:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
+>>>>>>> 541edbd17ca46dbc795bccf7b628c15267b85e0c
