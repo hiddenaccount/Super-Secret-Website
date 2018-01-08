@@ -1,3 +1,28 @@
+@font-face {
+	     font-family: 'caviard'
+		 src: url(Caviar.ttf);
+
+}
+
+p {
+	font-family: caviard;
+}
+
+h5 {
+	font-family: caviard;
+}
+
+h6 {
+	font-family: caviard;
+}
+
+
+
+
+
+
+
+
 .cat {
   position: relative;
   height: 170px;
