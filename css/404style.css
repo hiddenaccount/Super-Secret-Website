@@ -36,10 +36,10 @@ html, body {
   transition: ease 0.3s all;
 }
 #text .wrapper span.letter-2 {
-  color: rgba(0, 0, 255, 0.5);
+  color: rgba(0, 0, 0, 1);
 }
 #text .wrapper span.letter-1 {
-  color: rgba(255, 0, 0, 0.5);
+  color: rgba(15, 226, 207, 1);
   z-index: 1;
 }
 #text .wrapper span.letter-1:hover {
