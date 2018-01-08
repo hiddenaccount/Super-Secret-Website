@@ -1,5 +1,5 @@
 // type anything here
-var text = '404';
+var text = '404... there\'s nothing here';
 
 // this function turns a string into an array
 var createLetterArray = function createLetterArray(string) {
