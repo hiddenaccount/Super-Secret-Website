@@ -661,19 +661,6 @@
           animation-delay: 0s;
 }
 
-body {
-  background-color: #1a1a1a;
-  color: #fefefe;
-  font-family: 'Ubuntu';
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
-  font-size: 1.3em;
-  line-height: 2;
-  font-weight: 300;
-  text-rendering: optimizeLegibility;
-  text-align: center;
-}
-
 .container {
   position: absolute;
   top: 50%;
